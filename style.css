@@ -6,7 +6,7 @@ body{
        #182848,
        #4b6cb7
      ); 
- overflow: hidden;
+ //overflow: hidden;
 }
 .container {
   display: flex;
