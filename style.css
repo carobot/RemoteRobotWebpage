@@ -12,7 +12,7 @@ body{
   display: flex;
   justify-content: center;
   flex-direction: row;
-  transform: translateY(450px);
+  transform: translateY(250px);
 }
 .container2 {
     display: flex;
